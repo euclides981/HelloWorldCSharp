@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Heloo World");
+            Console.WriteLine("Hello World");
             Console.WriteLine("Olá, Digite um número para calcular a tabuada ");
             String num = Console.ReadLine();
 
